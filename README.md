@@ -5,7 +5,7 @@
 
   ## Features
 
-  - **Merit-order dispatch**: Renewables dispatched first at £0/MWh, followed by gas plants in ascending bid order
+  - **Cost aware dispatch**: Renewables dispatched first at £0/MWh, followed by gas plants in ascending bid order
   - **Pro-rata curtailment**: Proportional scaling when renewable output exceeds demand
   - **Marginal pricing**: Market price set by the last accepted gas bid
   - **Comprehensive analysis**: Hourly dispatch breakdowns, price dynamics, and supply mix visualizations
